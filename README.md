@@ -903,7 +903,7 @@ A SQL database compatible with standard SQL syntax. **PostgreSQL is recommended*
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/M1deTheAnalyst/Sunrise-Coffee-Chain-SQL-Analytics-Project.git
+git clone https://github.com/M1detheanalyst/Sunrise-Coffee-Chain-SQL-Analytics-Project.git
 ```
 
 2. **Create a new database**
